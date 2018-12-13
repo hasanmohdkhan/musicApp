@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Musical Structure</string>
+    <string name="title_songs">SONGS</string>
+    <string name="title_albums">ALBUMS</string>
+    <!--Geetha Govindam-->
+    <string name="album_geetha_govindam">Geetha Govindam</string>
+    <string name="artist_sid_sriram">sid sriram</string>
+    <string name="song_inkem_inkem_kavale">Inkem Inkem Kavale</string>
+    <string name="song_vachindamma">Vachindamma</string>
+    <string name="song_yenti_yenti">Yenti Yenti</string>
+    <string name="song_What_the_life"> What The Life</string>
+
+    <!--Minutes To Midnight-->
+    <string name="album_minutes_to_midnight">Minutes To Midnight</string>
+    <string name="artist_linkin_park">Linkin Park</string>
+    <string name="song_leave_out_all_the_rest">Leave Out All the Rest</string>
+    <string name="song_shadow_of_the_day">Shadow of the Day</string>
+    <string name="song_valentine_day">Valentine\'s Day</string>
+    <string name="song_what_i_have_done">What I\'ve Done</string>
+
+
+
+    <!--Aashiqui 2 & Raabta-->
+    <string name="artist_arijit">Arijit Singh</string>
+    <string name="album_aashiqui_2">Aashiqui 2</string>
+    <string name="song_tum_hi_ho">Tum hi ho</string>
+    <string name="album_raabta">Raabta</string>
+    <string name="song_ik_vaariya">Ik vaariya</string>
+
+
+
+
+
+    <!--Bharat Ane Nenu-->
+    <string name="album_bharat_ane_nenu">Bharat ane Nenu</string>
+    <string name="artist_Dsp">Dsp</string>
+    <string name="song_vasumathi">vasumathi</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="songs_in_album">Songs In Album</string>
+
+
+</resources>
